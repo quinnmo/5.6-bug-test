@@ -1,4 +1,4 @@
-- dashboard: model_set_b
+- dashboard: model_set_B
   title: Model Set B
   layout: newspaper
   elements:
